@@ -2,17 +2,17 @@
 
 - Dell Alienware Aurora R7
 - CPU: Intel Core i7-8700K Coffee Lake 6-Core 3.7 GHz (4.7 GHz Turbo)
-- Memory: Kingston 16GB*2 2400MHz DDR4
+- Memory: Kingston HyperX FURY DDR4 2400MHz 16GB*4
 - Graphics
   - Sapphire Radeon PULSE RX 5500 XT 8GB GDDR6 (driver-free)
   - NVIDIA&#174; GeForce&#174; GTX 1080 Ti 11GB GDDR5X (not supported since 10.13.6)
 - Disk: Samsung SSD 860 EVO 500G (SATA3.0, cause the only m.2 slot in motherboard is used by original TOSHIBA 256GB SSD, where Windows 10 locates)
 - Wireless/Bluetooth: DW1820A (replace original DW1820 with this)
-- OS: macOS Catalina 10.15.4 (19E287)
+- OS: macOS Catalina 10.15.5 (19F101)
 
 # Clover Bootloader
 
-- Version: Release v5.0 r5116
+- Version: Release v5.0 r5119
 - Keep the least necessary drivers and kexts
   - Drivers are all from Clover bootloader release package
   - Kexts are up to date and version number is shown in the filename
@@ -22,6 +22,14 @@
 - Future work^_^: OC is still in public beta
 
 # Update Log
+
+**2020-06-07**
+
+Update Clover bootloader to v5.0 r5119
+
+Update kexts to latest versions
+
+Successfully upgrade macOS to Catalina 10.15.5 (19F101)
 
 **2020-05-07**
 
