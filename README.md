@@ -6,13 +6,14 @@
 - Graphics
   - Sapphire Radeon PULSE RX 5500 XT 8GB GDDR6 (driver-free)
   - NVIDIA&#174; GeForce&#174; GTX 1080 Ti 11GB GDDR5X (not supported since 10.13.6)
-- Disk: Samsung SSD 860 EVO 500G (SATA3.0, cause the only m.2 slot in motherboard is used by original TOSHIBA 256GB SSD, where Windows 10 locates)
+- Disk: Samsung SSD 860 EVO 500G (SATA3.0, cause the only m.2 slot in motherboard is used by original TOSHIBA 256GB SSD, where Windows 11 locates)
 - Wireless/Bluetooth: DW1820A (replace original DW1820 with this)
 - OS: macOS Catalina 10.15.7 (19H2)
 
 # Clover Bootloader
 
 - Version: Release v5.0 r5121
+- Tested OS: macOS Catalina 10.15.7 (19H2)
 - Keep the least necessary drivers and kexts
   - Drivers are all from Clover bootloader release package
   - Kexts are up to date and version number is shown in the filename
@@ -22,6 +23,10 @@
 - Future work^_^: OC is still in public beta
 
 # Update Log
+**2022-09-27**
+
+Start to work on OpenCore bootloader
+
 **2020-10-16**
 
 Nothing to update
@@ -62,3 +67,4 @@ Airdrop works fine.
 - [黑果小兵](https://blog.daliansky.net/)
 - [国光](https://www.sqlsec.com/)
 - [tonymacx86](https://www.tonymacx86.com/)
+- [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
