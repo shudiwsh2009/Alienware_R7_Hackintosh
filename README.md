@@ -1,3 +1,6 @@
+# ARCHIVED
+# This repo won't be maintained anymore. Please consider purchasing a white Apple device.
+
 # Alienware Aurora R7 Hackintosh EFI
 
 - Dell Alienware Aurora R7
